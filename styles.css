@@ -1,0 +1,16 @@
+.button {
+    color: #ffffff; 
+    background-color: #0074e4; 
+    font-style: normal; 
+    font-family: Arial, sans-serif; 
+    font-weight: bold; 
+    padding: 5px 5px; 
+    text-decoration-color: red;
+    border: none; 
+    cursor: pointer; 
+}
+
+h3{
+    color: blue !important;
+
+}
